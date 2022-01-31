@@ -4,10 +4,9 @@ I'm a student pursuing B.Tech in Computer Science And Engineering, specializing 
 
 - 🔭 I’m currently working on Front End Development
 - 🌱 I’m currently learning Machine Learing, Full Stack and Software Development
-- 👯 I’m looking to collaborate on any and all projects
-- 💬 Ask me about Technology, Coding, Gaming and beyond
+- 👯 I’m looking to collaborate on any fun project
+- 💬 Ask me about Technology, Programming, Gaming and beyond...
 - 📫 Reach me at sugotobasu1@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: All applications without dark mode should be cancelled.
 
 <h3 align="left">Languages and Tools:</h3>
