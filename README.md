@@ -1,4 +1,4 @@
-### Heya there! Sugoto logging in...👋
+### Hey there! Sugoto logging in...👋
 
 I'm a student pursuing B.Tech in Computer Science And Engineering, specializing in AI/ML.
 
