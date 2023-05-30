@@ -2,8 +2,7 @@
 
 I'm a student pursuing B.Tech in Computer Science And Engineering, specializing in AI/ML.
 
-- 💻 I’m currently working on Full Stack Development
-- 🌱 I’m currently learning Machine Learing, Full Stack and Software Development
+- 💻 I’m currently working on Full Stack Development and Machine Learning
 - 👯 I’m looking to collaborate on any fun project
 - 💬 Ask me about Technology, Programming, Gaming and beyond...
 - 📫 Reach me at sugotobasu1@gmail.com
