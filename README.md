@@ -24,11 +24,3 @@ I'm a student pursuing B.Tech in Computer Science And Engineering, specializing 
 <p align="left">
 <a href="https://www.linkedin.com/in/sugotobasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sugoto's LinkedIn" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">My GitHub Statistics :</h3>
-<p align="left">
-
-![Sugoto's github stats](https://github-readme-stats.vercel.app/api?username=sugoto&count_private=true&show_icons=True)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sugoto&exclude_repo=dotfiles)
-</p>
