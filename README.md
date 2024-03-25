@@ -54,4 +54,4 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/Sugoto/sugoto/blob/output/github-contribution-grid-snake.svg)
+<img alt="snake eating my contributions" src="https://github.com/Sugoto/sugoto/blob/output/github-contribution-grid-snake.svg" />
