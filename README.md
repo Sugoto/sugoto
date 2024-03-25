@@ -78,7 +78,7 @@ I'm a student pursuing B.Tech in Computer Science And Engineering, specializing 
 
 <br clear="both">
 
-<img src="https://github.com/Sugoto/sugoto/blob/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/Sugoto/sugoto/blob/output/github-contribution-grid-snake.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
