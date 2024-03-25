@@ -51,7 +51,6 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sugoto&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 <hr/>
-
-<br clear="both">
-
-<img alt="snake eating my contributions" src="https://github.com/Sugoto/sugoto/blob/output/github-contribution-grid-snake.svg" />
+<div align="center">
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Sugoto/sugoto/output/github-contribution-grid-snake-dark.svg" />
+</div>
