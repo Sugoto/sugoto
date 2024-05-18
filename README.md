@@ -3,13 +3,11 @@
 </h1>
 
 
-<h3 align="left">A Full Stack Developer from India 🇮🇳 and a student pursuing B.Tech in Computer Science And Engineering, specializing in AI/ML.</h3>
+<h3 align="left">A Full Stack Developer from India 🇮🇳 with a B.Tech in Computer Science And Engineering, specializing in AI/ML.</h3>
 
 <div align="center">
 
-💻 I’m currently working on Full Stack Development and Machine Learning
-
-👯 I’m looking to collaborate on any fun project
+💻 I’m currently working on Full Stack Development and GenAI applications
 
 💬 Ask me about Technology, Programming, Gaming and beyond...
 
