@@ -1,0 +1,37 @@
+name: Daily Random Commits
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+
+jobs:
+  daily-random-commits:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate random number of commits
+        run: |
+          RANDOM_COMMITS=$((1 + RANDOM % 5))
+          echo "Random number of commits: $RANDOM_COMMITS"
+          echo "RANDOM_COMMITS=$RANDOM_COMMITS" >> $GITHUB_ENV
+
+      - name: Set git user
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Make random commits
+        run: |
+          for i in $(seq 1 $RANDOM_COMMITS); do
+            echo "Commit $i on $(date)" >> update.log
+            git add update.log
+            git commit -m "Random commit $i of $RANDOM_COMMITS for the day"
+          done
+
+      - name: Push changes
+        uses: ad-m/github-push-action@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
